@@ -129,7 +129,7 @@ Higher health expenditure generally correlates with higher life expectancy, thou
 ## Visualization
 Insert your scatter plot below:
 
-![Scatter Plot](scatter_plot.png)
+![Scatter Plot](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Scatterplots.png?raw=true)
 
 ---
 
