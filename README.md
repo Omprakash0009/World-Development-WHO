@@ -39,7 +39,7 @@ Provide a simple overview of trends in key indicators.
 ## Visualization
 Insert your basic chart below:
 
-![Basic Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Bar%20Chart.png?raw=true)
+![Basic Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Basic%20Chart.png?raw=true)
 
 ---
 
