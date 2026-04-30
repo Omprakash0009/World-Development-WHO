@@ -54,7 +54,7 @@ Life expectancy and health expenditure show steady growth over time, with notice
 ## Visualization
 Insert your line/area chart below:
 
-![Line Area Chart](line_area_chart.png)
+![Line Area Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Line%20&%20Area%20chart.png?raw=true)
 
 ---
 
