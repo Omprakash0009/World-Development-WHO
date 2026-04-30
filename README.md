@@ -114,7 +114,7 @@ Most countries fall within the 68–78 years life expectancy range (as shown in 
 ## Visualization
 Insert your histogram below:
 
-![Histogram](histogram.png)
+![Histogram](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Histogram.png?raw=true)
 
 ---
 
