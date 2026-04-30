@@ -144,7 +144,7 @@ Life expectancy is highest in Europe and lowest in parts of Africa (as illustrat
 ## Visualization
 Insert your map chart below:
 
-![Map Chart](map_chart.png)
+![Map Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Maps.png?raw=true)
 
 ---
 
