@@ -84,7 +84,7 @@ Health expenditure increased significantly over time, while life expectancy show
 ## Visualization
 Insert your combo chart below:
 
-![Combo Chart](combo_chart.png)
+![Combo Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Combo%20chart.png?raw=true)
 
 ---
 
