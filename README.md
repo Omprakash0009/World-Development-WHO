@@ -69,7 +69,7 @@ The United States has the highest health expenditure per capita among selected c
 ## Visualization
 Insert your bar chart below:
 
-![Bar Chart](bar_chart.png)
+![Bar Chart]([(https://github.com/Omprakash0009/World-Development-WHO/blob/main/Bar%20Chart.png?raw=true)Z)
 
 ---
 
