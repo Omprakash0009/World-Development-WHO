@@ -99,7 +99,7 @@ A small number of countries contribute a large share of total values, while othe
 ## Visualization
 Insert your pie chart below:
 
-![Pie Chart](pie_chart.png)
+![Pie Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Pie%20chart.png?raw=true)
 
 ---
 
