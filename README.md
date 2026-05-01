@@ -37,7 +37,7 @@ The dataset includes World Development Indicators such as life expectancy and he
 Provide a simple overview of trends in key indicators.
 
 ## Visualization
-Insert your basic chart below:
+
 
 ![Basic Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Basic%20Chart.png?raw=true)
 
@@ -52,7 +52,6 @@ Analyze trends over time.
 Life expectancy and health expenditure show steady growth over time, with noticeable variation across years.
 
 ## Visualization
-Insert your line/area chart below:
 
 ![Line Area Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Line%20&%20Area%20chart.png?raw=true)
 
@@ -67,7 +66,7 @@ Compare health expenditure across countries.
 The United States has the highest health expenditure per capita among selected countries (as shown in the chart on page 3).
 
 ## Visualization
-Insert your bar chart below:
+
 
 ![Bar Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Bar%20Chart.png?raw=true)
 
@@ -82,7 +81,7 @@ Compare life expectancy and health expenditure together.
 Health expenditure increased significantly over time, while life expectancy showed slower growth and a slight decline during the COVID-19 period (as illustrated in the chart on page 5).
 
 ## Visualization
-Insert your combo chart below:
+
 
 ![Combo Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Combo%20chart.png?raw=true)
 
@@ -97,7 +96,7 @@ Show proportion distribution among selected entities.
 A small number of countries contribute a large share of total values, while others form the majority (as seen in the pie chart on page 8).
 
 ## Visualization
-Insert your pie chart below:
+
 
 ![Pie Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Pie%20chart.png?raw=true)
 
@@ -112,7 +111,7 @@ Understand the distribution of life expectancy.
 Most countries fall within the 68–78 years life expectancy range (as shown in the histogram on page 6).
 
 ## Visualization
-Insert your histogram below:
+
 
 ![Histogram](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Histogram.png?raw=true)
 
@@ -127,7 +126,7 @@ Analyze relationship between health expenditure and life expectancy.
 Higher health expenditure generally correlates with higher life expectancy, though some countries (such as the United States) show high spending with comparatively lower life expectancy (as shown on page 9).
 
 ## Visualization
-Insert your scatter plot below:
+
 
 ![Scatter Plot](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Scatterplots.png?raw=true)
 
@@ -142,7 +141,7 @@ Compare life expectancy across regions geographically.
 Life expectancy is highest in Europe and lowest in parts of Africa (as illustrated in the map on page 7).
 
 ## Visualization
-Insert your map chart below:
+
 
 ![Map Chart](https://github.com/Omprakash0009/World-Development-WHO/blob/main/Maps.png?raw=true)
 
